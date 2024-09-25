@@ -19,19 +19,16 @@ Here are some ideas to get you started:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Man+proposes%2C+Man+disposes&author=Customized)](https://github.com/piyushsuthar/github-readme-quotes)
 
-&nbsp;
 
 ### 💻 My Tech Stack:
 
 [![TechStack](https://skillicons.dev/icons?i=md,linux,aws,azure,terraform,bash,powershell,python,vim,git,docker,kubernetes,grafana,prometheus)](https://skillicons.dev)
 
-&nbsp;
 
 ### 🏆 My GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=trungtin1011&show_icons=true&count_private=true&theme=light)   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtin1011&amp;layout=compact&amp;theme=light" class="jop-noMdConv" width="352">
 
-&nbsp;
 
 ### ⚡ Recent GitHub Activity
 
