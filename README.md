@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ## Hi, my name is Tin - Tin Trung Ngo 👋
 
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Man+proposes%2C+Man+disposes&author=Customized)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ### 🏆 My GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=trungtin1011&show_icons=true&count_private=true&theme=light)   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtin1011&amp;layout=compact&amp;theme=light" class="jop-noMdConv" width="352">
@@ -29,6 +27,3 @@ Here are some ideas to get you started:
 2.  💪 Opened PR [#72646](https://github.com/bitnami/containers/pull/72646) in [bitnami/containers](https://github.com/bitnami/containers)
 
 
-### 💻 My Tech Stack:
-
-[![TechStack](https://skillicons.dev/icons?i=linux,aws,azure,terraform,bash,powershell,python,git,docker,kubernetes)](https://skillicons.dev)
