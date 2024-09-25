@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, my name is Tin - Tin Trung Ngo 👋
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Man+proposes%2C+Man+disposes&author=Customized)](https://github.com/piyushsuthar/github-readme-quotes)
+
+&nbsp;
+
+### 💻 My Tech Stack:
+
+[![TechStack](https://skillicons.dev/icons?i=md,linux,aws,azure,terraform,bash,powershell,python,vim,git,docker,kubernetes,grafana,prometheus)](https://skillicons.dev)
+
+&nbsp;
+
+### 🏆 My GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=trungtin1011&show_icons=true&count_private=true&theme=light)   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtin1011&amp;layout=compact&amp;theme=light" class="jop-noMdConv" width="352">
+
+&nbsp;
+
+### ⚡ Recent GitHub Activity
+
+1.  💪 Opened Issue [#29545](https://github.com/bitnami/charts/issues/29545) in [bitnami/charts](https://github.com/bitnami/charts)
+2.  💪 Opened PR [#72646](https://github.com/bitnami/containers/pull/72646) in [bitnami/containers](https://github.com/bitnami/containers)
