@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ### ⚡ My Recent GitHub Activities
 
-1. 💪 Opened Issue [#29545](https://github.com/bitnami/charts/issues/29545) in [bitnami/charts](https://github.com/bitnami/charts)
-2. 💪 Opened PR [#72646](https://github.com/bitnami/containers/pull/72646) in [bitnami/containers](https://github.com/bitnami/containers)
+1. 💪 Resolved Issue [#29545](https://github.com/bitnami/charts/issues/29545) in [bitnami/charts](https://github.com/bitnami/charts)
+2. 💪 Merged PR [#72646](https://github.com/bitnami/containers/pull/72646) in [bitnami/containers](https://github.com/bitnami/containers)
 3. 💪 Opened Issue [#33](https://github.com/coroot/helm-charts/issues/33) in [coroot/helm-charts](https://github.com/coroot/helm-charts)
 
 
