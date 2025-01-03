@@ -7,6 +7,7 @@
 <br>
 
 💪 PR [#72646](https://github.com/bitnami/containers/pull/72646) got merged in [bitnami/containers](https://github.com/bitnami/containers)
+
 💪 Resolved issue [#29545](https://github.com/bitnami/charts/issues/29545) in [bitnami/charts](https://github.com/bitnami/charts)
 
 <br>
