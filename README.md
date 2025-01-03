@@ -2,7 +2,7 @@
 
 ### 🏆 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=trungtin1011&show_icons=true&count_private=true&theme=light" height="220"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtin1011&amp;layout=compact&amp;theme=light" height="220">
+<img src="https://github-readme-stats.vercel.app/api?username=trungtin1011&show_icons=true&count_private=true&theme=light" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtin1011&amp;layout=compact&amp;theme=light" height="200">
 
 <br>
 
