@@ -1,30 +1,16 @@
-<!--
-**Trungtin1011/trungtin1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi, my name is Tin - Tin Trung Ngo 👋
 
 ### 🏆 My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=trungtin1011&show_icons=true&count_private=true&theme=light)   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtin1011&amp;layout=compact&amp;theme=light" class="jop-noMdConv" width="352">
+<img src="https://github-readme-stats.vercel.app/api?username=trungtin1011&show_icons=true&count_private=true&theme=light" height="220"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtin1011&amp;layout=compact&amp;theme=light" height="220">
 
+<br>
 
-### ⚡ My Recent GitHub Activities
+💪 PR [#72646](https://github.com/bitnami/containers/pull/72646) got merged in [bitnami/containers](https://github.com/bitnami/containers)
+💪 Resolved issue [#29545](https://github.com/bitnami/charts/issues/29545) in [bitnami/charts](https://github.com/bitnami/charts)
 
-1. 💪 Resolved Issue [#29545](https://github.com/bitnami/charts/issues/29545) in [bitnami/charts](https://github.com/bitnami/charts)
-2. 💪 Merged PR [#72646](https://github.com/bitnami/containers/pull/72646) in [bitnami/containers](https://github.com/bitnami/containers)
-3. 💪 Opened Issue [#33](https://github.com/coroot/helm-charts/issues/33) in [coroot/helm-charts](https://github.com/coroot/helm-charts)
-4. 💪 Opened Issue [#21](https://github.com/jordan-dalby/ByteStash/issues/21) in [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash)
+<br>
 
+### 💻 My Tech Stack:
 
+[![TechStack](https://skillicons.dev/icons?i=aws,terraform,linux,bash,git,docker,kubernetes,grafana,python,md,vim,azure)](https://skillicons.dev)
