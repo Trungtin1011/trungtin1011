@@ -10,6 +10,8 @@
 
 💪 PR [#176](https://github.com/jordan-dalby/ByteStash/pull/176), [#177](https://github.com/jordan-dalby/ByteStash/pull/177), and [#179](https://github.com/jordan-dalby/ByteStash/pull/179) got merged in [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash)
 
+💪 PR [#40](https://github.com/coroot/helm-charts/pull/40) got merged in [coroot/helm-charts](https://github.com/coroot/helm-charts)
+
 💪 Resolved issue [#29545](https://github.com/bitnami/charts/issues/29545) in [bitnami/charts](https://github.com/bitnami/charts)
 
 💪 Resolved issue [#174](https://github.com/jordan-dalby/ByteStash/issues/174) in [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash)
