@@ -2,7 +2,8 @@
 
 ### 🏆 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=trungtin1011&show_icons=true&count_private=true&theme=light" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtin1011&layout=compact&theme=light" height="180">
+| ![](https://github-readme-stats.vercel.app/api?username=trungtin1011&show_icons=true&count_private=true&theme=light) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trungtin1011&layout=compact&theme=light&langs_count=8) |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
 
@@ -18,6 +19,10 @@
 
 <br>
 
+<hr>
+
 ### 💻 My Tech Stack:
 
-[![TechStack](https://skillicons.dev/icons?i=aws,terraform,linux,bash,git,docker,kubernetes,grafana,python,md,vim,azure)](https://skillicons.dev)
+[![TechStack](https://skillicons.dev/icons?i=aws,terraform,linux,bash,git,docker,kubernetes,prometheus,grafana,python,md,vim,azure)](https://skillicons.dev)
+
+<hr>
