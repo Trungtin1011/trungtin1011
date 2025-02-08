@@ -23,6 +23,6 @@
 
 ### 💻 My Tech Stack:
 
-[![TechStack](https://skillicons.dev/icons?i=aws,terraform,linux,windows,git,docker,kubernetes,prometheus,grafana,python,md,bash,powershell,vim,vscode,azure)](https://skillicons.dev)
+[![TechStack](https://skillicons.dev/icons?i=aws,terraform,linux,windows,git,docker,kubernetes,prometheus,grafana,python,cpp,md,bash,powershell,azure)](https://skillicons.dev)
 
 <hr>
