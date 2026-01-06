@@ -1,10 +1,9 @@
 <h1 align="center">Hi, my name is Tin - Tin Trung Ngo 👋</h1>
 <h3 align="center">A passionate Cloud Engineer</h3>
 
-<hr
+<hr>
   
 ### 🏆 My GitHub Stats
-
 
 💪 PR [#72646](https://github.com/bitnami/containers/pull/72646) got merged in [bitnami/containers](https://github.com/bitnami/containers)
 
