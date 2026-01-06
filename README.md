@@ -1,11 +1,10 @@
 <h1 align="center">Hi, my name is Tin - Tin Trung Ngo 👋</h1>
 <h3 align="center">A passionate Cloud Engineer</h3>
 
-<br>
-
 <hr
   
 ### 🏆 My GitHub Stats
+
 
 💪 PR [#72646](https://github.com/bitnami/containers/pull/72646) got merged in [bitnami/containers](https://github.com/bitnami/containers)
 
@@ -16,8 +15,6 @@
 💪 Resolved issue [#29545](https://github.com/bitnami/charts/issues/29545) in [bitnami/charts](https://github.com/bitnami/charts)
 
 💪 Resolved issue [#174](https://github.com/jordan-dalby/ByteStash/issues/174) in [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash)
-
-<br>
 
 <hr>
 
