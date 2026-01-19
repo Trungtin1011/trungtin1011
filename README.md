@@ -5,6 +5,9 @@
   
 ### 🏆 My GitHub Stats
 
+| ![](https://github-readme-stats.vercel.app/api?username=trungtin1011&show_icons=true&theme=graywhite) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trungtin1011&layout=compact&theme=graywhite&langs_count=8) |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+
 💪 PR [#72646](https://github.com/bitnami/containers/pull/72646) got merged in [bitnami/containers](https://github.com/bitnami/containers)
 
 💪 PR [#176](https://github.com/jordan-dalby/ByteStash/pull/176), [#177](https://github.com/jordan-dalby/ByteStash/pull/177), and [#179](https://github.com/jordan-dalby/ByteStash/pull/179) got merged in [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash)
